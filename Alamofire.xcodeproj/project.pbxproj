@@ -822,6 +822,8 @@
 					};
 					4CF626EE1BA7CB3E0011A099 = {
 						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = 57NHH6Z28B;
+						DevelopmentTeamName = "Sebastien Schaeffler";
 					};
 					4CF626F71BA7CB3E0011A099 = {
 						CreatedOnToolsVersion = 7.1;
@@ -829,8 +831,14 @@
 					4DD67C0A1A5C55C900ED2280 = {
 						CreatedOnToolsVersion = 6.1.1;
 					};
+					E4202FCD1B667AA100C997FB = {
+						DevelopmentTeam = 57NHH6Z28B;
+						DevelopmentTeamName = "Sebastien Schaeffler";
+					};
 					F8111E3219A95C8B0040E7D1 = {
 						CreatedOnToolsVersion = 6.0;
+						DevelopmentTeam = 57NHH6Z28B;
+						DevelopmentTeamName = "Sebastien Schaeffler";
 					};
 					F8111E3D19A95C8B0040E7D1 = {
 						CreatedOnToolsVersion = 6.0;
